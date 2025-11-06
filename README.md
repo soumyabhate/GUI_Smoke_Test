@@ -94,14 +94,12 @@ If you see that window, your **display configuration, Docker permissions, and Op
 
 ---
 
-## 🎥 5. Demo Video
+## 🎥 5. Output Screenshot
 
-[▶️ Watch the demo](test_output.mp4)
-
-<!-- Inline player (works on GitHub Pages / some viewers) -->
-<video width="640" height="360" controls>
-  <source src="test_output.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <img src="test_command.jpg" alt="Commands on Docker container" width="49%">
+  <img src="test_output.jpg" alt="OpenCV window showing Hello Jetson" width="49%">
+</p>
 
 ---
 
