@@ -97,8 +97,8 @@ If you see that window, your **display configuration, Docker permissions, and Op
 ## 🎥 5. Output Screenshot
 
 <p align="center">
-  <img src="test_command.jpg" alt="Commands on Docker container" width="49%">
-  <img src="test_output.jpg" alt="OpenCV window showing Hello Jetson" width="49%">
+  <img src="test_command.jpeg" alt="Commands on Docker container" width="49%">
+  <img src="test_output.jpeg" alt="OpenCV window showing Hello Jetson" width="49%">
 </p>
 
 ---
